@@ -1,0 +1,5 @@
+name: EliteTrolls
+version: '${project.version}'
+main: de.sparkofyt.elitetrolls.EliteTrolls
+api-version: 1.14
+authors: [ sparkofyt ]
